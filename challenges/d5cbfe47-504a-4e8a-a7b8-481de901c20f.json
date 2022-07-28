@@ -1,0 +1,43 @@
+{
+    "challengeBackendInformation": {
+        "isDefaultChallenge": false,
+        "readableName": "Treasure trove",
+        "progressWhenLocked": false
+    },
+    "challengeInfo": {
+        "referenceId": "d5cbfe47-504a-4e8a-a7b8-481de901c20f",
+        "duration": "PersonalContinuous",
+        "type": "Regular",
+        "endTimeUtc": null,
+        "rewards": {
+            "inventory": [],
+            "buildplates": [],
+            "challenges": [],
+            "personaItems": [],
+            "utilityBlocks": [],
+            "experiencePoints": 50
+        },
+        "percentComplete": 0,
+        "isComplete": false,
+        "state": "Active",
+        "category": "Collection",
+        "currentCount": 0,
+        "totalThreshold": 5,
+        "parentId": null,
+        "order": 0,
+        "rarity": "Uncommon",
+        "prerequisiteLogicalCondition": "And",
+        "prerequisiteIds": [],
+        "groupId": null,
+        "clientProperties": {}
+    },
+    "challengeRequirements": {
+        "tappables": [
+            {
+                "targetTappableTypes": [ "genoa:chest_tappable_map" ],
+                "threshold": 5,
+                "shouldBeUnique": false
+            }
+        ]
+    }
+}

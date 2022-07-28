@@ -1,0 +1,39 @@
+{
+    "challengeBackendInformation": {
+        "isDefaultChallenge": true,
+        "readableName": "Defeat 3 bone spiders",
+        "progressWhenLocked": false
+    },
+    "challengeInfo": {
+        "referenceId": "290e2c67-cdfb-4aab-8fae-f8b910a096c0",
+        "duration": "Season",
+        "type": "Regular",
+        "endTimeUtc": "2022-09-24T02:00:00+02:00",
+        "rewards": {
+            "inventory": [],
+            "buildplates": [],
+            "challenges": [],
+            "personaItems": [
+                "d7725840-4376-44fc-9220-585f45775371"
+            ],
+            "utilityBlocks": []
+        },
+        "percentComplete": 0,
+        "isComplete": false,
+        "state": "Locked",
+        "category": "season_17",
+        "currentCount": 0,
+        "totalThreshold": 3,
+        "parentId": "70961d0f-a762-4846-a79c-576d685263f4",
+        "order": 29,
+        "rarity": null,
+        "prerequisiteLogicalCondition": "Or",
+        "prerequisiteIds": [
+            "2ebbf878-5c69-4f55-8858-83bd53c57381",
+            "0b346237-79a4-4f24-a45a-e2e6284e3e56"
+        ],
+        "groupId": "cc456b52-1586-4e75-b7e9-aa811f609567",
+        "clientProperties": {}
+    },
+    "challengeRequirements": {}
+}
