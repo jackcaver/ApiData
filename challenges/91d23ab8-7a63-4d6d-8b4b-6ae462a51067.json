@@ -1,0 +1,54 @@
+{
+    "challengeBackendInformation": {
+        "isDefaultChallenge": false,
+        "readableName": "Baaaa!",
+        "progressWhenLocked": false
+    },
+    "challengeInfo": {
+        "referenceId": "91d23ab8-7a63-4d6d-8b4b-6ae462a51067",
+        "duration": "PersonalTimed",
+        "type": "Regular",
+        "endTimeUtc": null,
+        "rewards": {
+            "inventory": [],
+            "buildplates": [],
+            "challenges": [],
+            "personaItems": [],
+            "utilityBlocks": [],
+            "experiencePoints": 30
+        },
+        "percentComplete": 0,
+        "isComplete": false,
+        "state": "Active",
+        "category": "sheep",
+        "currentCount": 0,
+        "totalThreshold": 1,
+        "parentId": null,
+        "order": 0,
+        "rarity": "Common",
+        "prerequisiteLogicalCondition": "And",
+        "prerequisiteIds": [],
+        "groupId": null,
+        "clientProperties": {}
+    },
+    "challengeRequirements": {
+        "items": [
+            {
+                "targetItems": {
+                    "itemIds": null,
+                    "tags": [
+                        "sheep"
+                    ],
+                    "rarity": null
+                },
+                "sourceItems": null,
+                "action": [
+                    "ItemAwarded"
+                ],
+                "location": [],
+                "threshold": 1,
+                "shouldBeUnique": false
+            }
+        ]
+    }
+}

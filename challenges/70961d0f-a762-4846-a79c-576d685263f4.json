@@ -1,0 +1,47 @@
+{
+    "challengeBackendInformation": {
+        "isDefaultChallenge": true,
+        "readableName": "Loot Phase Parent",
+        "progressWhenLocked": false
+    },
+    "challengeInfo": {
+        "referenceId": "45262b2b-2f74-4c6a-ae8e-837e81e80c46",
+        "duration": "Season",
+        "type": "Regular",
+        "endTimeUtc": "2022-09-24T02:00:00+02:00",
+        "rewards": {
+            "inventory": [],
+            "buildplates": [],
+            "challenges": [],
+            "personaItems": [],
+            "utilityBlocks": []
+        },
+        "percentComplete": 0,
+        "isComplete": false,
+        "state": "Locked",
+        "category": "season_17",
+        "currentCount": 0,
+        "totalThreshold": 1,
+        "parentId": "cc456b52-1586-4e75-b7e9-aa811f609567",
+        "order": 0,
+        "rarity": null,
+        "prerequisiteLogicalCondition": "And",
+        "prerequisiteIds": [
+            "3d82b9c1-f4e0-4a20-b87e-9a11734bcb6a"
+        ],
+        "groupId": "cc456b52-1586-4e75-b7e9-aa811f609567",
+        "clientProperties": {}
+    },
+    "challengeRequirements": {
+        "challenges": [
+            {
+                "targetChallengeIds": [
+                    "6b336cdb-77fc-4d43-b0c9-cb80bafe52eb"
+                ],
+                "durations": null,
+                "rarities": null,
+                "threshold": 1
+            }
+        ]
+    }
+}

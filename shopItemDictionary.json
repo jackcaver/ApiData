@@ -1,0 +1,326 @@
+{
+    "c095d219-d568-408e-ac2f-b432be3559a1": {
+        "id": "038c8034-1d98-96ca-8278-bc69f592549f",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "038c8034-1d98-96ca-8278-bc69f592549f": 1
+        }
+    },
+
+    "14573f0c-0e18-4b4c-8868-c4d90e3cd509": {
+        "id": "79a0bc61-84e6-4c77-ba12-df0bad32a06f",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "79a0bc61-84e6-4c77-ba12-df0bad32a06f": 3
+        }
+    },
+    "9f13aa99-9243-47eb-8fe4-82909b49de8e": {
+        "id": "89726b8c-2716-44ea-b07c-ac1c319d3e18",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "89726b8c-2716-44ea-b07c-ac1c319d3e18": 5
+        }
+    },
+    "c025702d-5b96-4745-bb4b-93911ee8c32a": {
+        "id": "234432db-03c6-46f3-85c6-289cc710ca90",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "234432db-03c6-46f3-85c6-289cc710ca90": 1
+        }
+    },
+
+    "6c7e7718-b800-483b-93f3-80f28a7bc597": {
+        "id": "93268ee9-699a-48e9-9bf5-06e9e7a34646",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "93268ee9-699a-48e9-9bf5-06e9e7a34646": 3
+        }
+    },
+    "98c03065-5271-4303-933a-0643af1d1e41": {
+        "id": "87d0851b-c7f3-4df0-b214-6280ecf788f6",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "87d0851b-c7f3-4df0-b214-6280ecf788f6": 5
+        }
+    },
+    "43a5011e-911a-4061-b5fb-1f9295bcbba1": {
+        "id": "5d788e04-8c5e-495f-81d1-69caa4001dbc",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "5d788e04-8c5e-495f-81d1-69caa4001dbc": 1
+        }
+    },
+
+    "b29f5e35-5e01-43f7-821e-690735a99e88": {
+        "id": "e46a2a7b-02fc-4d7c-8ed6-b9c5de192ef9",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "e46a2a7b-02fc-4d7c-8ed6-b9c5de192ef9": 3
+        }
+    },
+    "d96c0f65-1001-4220-bd80-405060bbf3be": {
+        "id": "d9bbd707-8a7a-4edb-a85c-f8ec0c78a1f9",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "d9bbd707-8a7a-4edb-a85c-f8ec0c78a1f9": 5
+        }
+    },
+    "eacc48e8-ebbd-4b6f-983f-3522865eccea": {
+        "id": "bef8b1c2-54c6-4f69-a6c9-f1aa1ee18119",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "bef8b1c2-54c6-4f69-a6c9-f1aa1ee18119": 1
+        }
+    },
+
+    "b54a3553-8d6a-4d45-aac4-2b0a904e6f47": {
+        "id": "97039510-767c-43a9-8a15-b1034d8011d4",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "97039510-767c-43a9-8a15-b1034d8011d4": 3
+        }
+    },
+    "c5ea2fb3-b3f6-4d9f-8b22-c9c2b69eed9e": {
+        "id": "7768e3de-aea7-4171-8fdd-2b69cce45ee6",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "7768e3de-aea7-4171-8fdd-2b69cce45ee6": 5
+        }
+    },
+    "4062100a-ada2-4974-86d2-09b606596bc7": {
+        "id": "50539b69-3d2e-40c8-bef1-490d3286b9db",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "50539b69-3d2e-40c8-bef1-490d3286b9db": 1
+        }
+    },
+
+    "c3120a4c-a5c3-4dbb-bbfc-64d55b176952": {
+        "id": "bab05ee3-b06f-411b-a6a4-a112f9acf72f",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "bab05ee3-b06f-411b-a6a4-a112f9acf72f": 3
+        }
+    },
+    "23ce5e1d-2074-4f84-9ccd-249819030054": {
+        "id": "58fb6d35-f304-4930-acf8-73e789312d9a",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "58fb6d35-f304-4930-acf8-73e789312d9a": 5
+        }
+    },
+    "4166efe4-26a0-4e20-bc84-84cc78632bbc": {
+        "id": "5a4a89e3-ef12-4af9-bf1f-9058499827ed",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "5a4a89e3-ef12-4af9-bf1f-9058499827ed": 1
+        }
+    },
+
+    "3bedcd77-a506-47a8-ba59-01a915ddb5c5": {
+        "id": "924d1428-7427-48e2-b0ae-5a3eeeba3d9c",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "924d1428-7427-48e2-b0ae-5a3eeeba3d9c": 3
+        }
+    },
+    "055229aa-c10a-40af-92b9-15086096dac4": {
+        "id": "c4231eb5-8fc0-4ad7-ad18-ecfcb0734049",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "c4231eb5-8fc0-4ad7-ad18-ecfcb0734049": 5
+        }
+    },
+    "9d957be1-94c8-4be8-9e1d-d497471943b7": {
+        "id": "b6bd9483-b995-413c-b9ba-447e4daf8e69",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "b6bd9483-b995-413c-b9ba-447e4daf8e69": 1
+        }
+    },
+
+    "8366474d-7afb-4d6d-a376-ad2b09c807f4": {
+        "id": "661accb9-386a-452d-9ada-669fc20a1ef9",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "661accb9-386a-452d-9ada-669fc20a1ef9": 3
+        }
+    },
+    "643826f8-c109-4b42-b763-be039ea7752b": {
+        "id": "6e0d14d1-d406-4040-8582-3ec3d160079f",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "6e0d14d1-d406-4040-8582-3ec3d160079f": 5
+        }
+    },
+    "3a0fbea6-d40d-40ab-9467-91900438d9b1": {
+        "id": "1b527574-8260-42f4-bd34-49d2cad6b91f",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "1b527574-8260-42f4-bd34-49d2cad6b91f": 1
+        }
+    },
+
+    "995b4adb-e856-4c4b-a559-8af1bfeeb99b": {
+        "id": "0452bd8f-353e-4aba-89fe-9b36ea97e7a1",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "0452bd8f-353e-4aba-89fe-9b36ea97e7a1": 3
+        }
+    },
+    "200b31fc-137b-4a05-838e-ff532b95eba3": {
+        "id": "15f4eedb-b14c-4aa0-8f54-4b3ecc8aa0d5",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "15f4eedb-b14c-4aa0-8f54-4b3ecc8aa0d5": 5
+        }
+    },
+    "8ba36e03-6def-4479-8aac-454dc21caa9b": {
+        "id": "acb80f32-4e45-4f59-a203-c297e717f62f",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "acb80f32-4e45-4f59-a203-c297e717f62f": 1
+        }
+    },
+
+    "6209f825-d137-48f9-8081-c095aab9849f": {
+        "id": "1808716a-949a-429e-a138-643e20532f87",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "1808716a-949a-429e-a138-643e20532f87": 3
+        }
+    },
+    "ca70fd76-da76-41a2-9159-6dd4c034c156": {
+        "id": "db46340f-4e48-47b4-86ab-b97273affa04",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "db46340f-4e48-47b4-86ab-b97273affa04": 5
+        }
+    },
+    "8fcf61aa-31f1-43dd-bf20-4ce67f6de2b5": {
+        "id": "75a749d3-f6a0-4f54-a785-9099403ea7e9",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "75a749d3-f6a0-4f54-a785-9099403ea7e9": 1
+        }
+    },
+
+    "a4eac031-6f19-41ac-a041-d04902dfd9ba": {
+        "id": "6f983514-9c7a-46ad-982f-6dfd4a835b80",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "6f983514-9c7a-46ad-982f-6dfd4a835b80": 3
+        }
+    },
+    "46e14441-e111-4773-b845-8ba31bd1db60": {
+        "id": "b35077e7-8772-45a8-a813-b5f750df9588",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "b35077e7-8772-45a8-a813-b5f750df9588": 5
+        }
+    },
+    "5de2c884-8b0d-4db2-893e-6824d603454e": {
+        "id": "29d26deb-3f14-410f-af59-a492a21406bb",
+        "storeItemType": "Items",
+        "inventoryCounts": {
+            "29d26deb-3f14-410f-af59-a492a21406bb": 1
+        }
+    },
+
+    "a3e4b8b2-88cb-4d26-a414-ce2c6e61c389": {
+        "id": "f03c6b19-2056-c35c-59d6-c02499baaa1e",
+        "storeItemType": "Buildplates"
+    },
+    "83cbec6b-749c-472e-a93b-0003e3aa638b": {
+        "id": "d4c07edf-2f89-de00-50cc-b968ccf1d223",
+        "storeItemType": "Buildplates"
+    },
+    "85bdb91e-d2e0-4fc2-8269-d171ac0ca4ac": {
+        "id": "2ef467d0-24d7-6b2b-3ae1-489962cc74fa",
+        "storeItemType": "Buildplates"
+    },
+    "716c33f5-f34f-4a1a-8e95-446b9bfc9127": {
+        "id": "f4a42663-70dd-9dd4-2865-d33e0fbc04c3",
+        "storeItemType": "Buildplates"
+    },
+    "937fe1d9-7dff-4112-8c43-943b3e86065a": {
+        "id": "6a6d9322-5d54-acea-1567-d0ced4591f2c",
+        "storeItemType": "Buildplates"
+    },
+    "331d952a-081d-4ea5-9581-1cbad1c8176d": {
+        "id": "dc5c6e88-cacb-b709-c046-eedd00feddd5",
+        "storeItemType": "Buildplates"
+    },
+    "41cddd77-390c-4bea-881b-7bc97be8967b": {
+        "id": "41d2c76a-3f50-60ab-9cdc-c4668812cd15",
+        "storeItemType": "Buildplates"
+    },
+    "717c4f02-56e5-4743-a074-44bcdd461db0": {
+        "id": "ab250be8-1a4c-2ca3-8ea6-c3002a158ef6",
+        "storeItemType": "Buildplates"
+    },
+    "6643edae-3d4a-4932-bae2-cc47317a1041": {
+        "id": "e6e84ab3-7374-3445-e57a-14457f0aa51c",
+        "storeItemType": "Buildplates"
+    },
+    "30055134-bf86-44fe-915e-e096caae2de1": {
+        "id": "87b7ac8f-820c-7d29-27ee-a7ba888f385c",
+        "storeItemType": "Buildplates"
+    },
+    "dcbc054f-51c1-4d95-96f3-aaa0a2d0d7ff": {
+        "id": "012c761c-e83a-767c-af63-c1eefca8a551",
+        "storeItemType": "Buildplates"
+    },
+    "faa5120c-5d20-467a-b53e-0b47a7caf31b": {
+        "id": "60619d6a-5168-d71f-f20b-c366c93c7f04",
+        "storeItemType": "Buildplates"
+    },
+    "af54c6cb-34ac-44e3-ada4-fffd4c580c1e": {
+        "id": "ca3ecdc1-8188-a933-0628-c5e6afd7ab71",
+        "storeItemType": "Buildplates"
+    },
+    "8e8e5af4-7865-43a7-8fa9-847cffff5cf6": {
+        "id": "054e55be-18a0-b881-d7fa-a60cf791477a",
+        "storeItemType": "Buildplates"
+    },
+    "3c14f929-4f9d-4f94-b5ce-abb22b80e5c6": {
+        "id": "fad4c769-b1b9-1847-7bcd-00b9a00a5546",
+        "storeItemType": "Buildplates"
+    },
+    "1102b106-9da4-4e82-8fe9-828d617d323f": {
+        "id": "4931dd31-4c4a-234f-1af5-869433d15268",
+        "storeItemType": "Buildplates"
+    },
+    "efa4cd81-fc7b-4806-9419-9141027333f8": {
+        "id": "aab8c604-1285-a4a0-16c9-c6e4c762fad0",
+        "storeItemType": "Buildplates"
+    },
+    "4e42e674-e337-43d0-9587-b7ac947103ff": {
+        "id": "c5c033c7-1ef4-201a-7e01-ad0bdd37ab7c",
+        "storeItemType": "Buildplates"
+    },
+    "7fd89680-7c9b-4adc-92cf-3e26a2dd71cb": {
+        "id": "384b63d3-6dd4-e0b1-090b-87aa1a4326f6",
+        "storeItemType": "Buildplates"
+    },
+    "6078f5c8-81cf-473b-8ebb-0db0a6edadf8": {
+        "id": "5fdf82c2-5deb-8437-b76c-494b00fb9066",
+        "storeItemType": "Buildplates"
+    },
+    "8aaa1577-5a4d-409b-842f-73ae13a05f78": {
+        "id": "be8ea042-9975-5281-aa5a-21eb7600291f",
+        "storeItemType": "Buildplates"
+    },
+    "998b5e8f-7271-4de6-949f-eda15c7100d7": {
+        "id": "2f0c88fa-73fc-2567-f870-0f61283294ef",
+        "storeItemType": "Buildplates"
+    },
+    "c4a1cce4-c4ef-4f99-a210-071e2e30f154": {
+        "id": "2ea12a36-8a2c-0601-1b59-a590c27510e8",
+        "storeItemType": "Buildplates"
+    },
+    "b9272a8c-603c-4188-a75b-e7838bbab567": {
+        "id": "dce3307a-6d83-6deb-f755-3f8dac4a64d0",
+        "storeItemType": "Buildplates"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "challengeBackendInformation": {
+        "isDefaultChallenge": false,
+        "readableName": "Petting zoo",
+        "progressWhenLocked": false
+    },
+    "challengeInfo": {
+        "referenceId": "ccc1836f-ccda-4f33-8a4d-c42d8d366255",
+        "duration": "PersonalTimed",
+        "type": "Regular",
+        "endTimeUtc": null,
+        "rewards": {
+            "inventory": [],
+            "buildplates": [],
+            "challenges": [],
+            "personaItems": [],
+            "utilityBlocks": [],
+            "experiencePoints": 75
+        },
+        "percentComplete": 0,
+        "isComplete": false,
+        "state": "Active",
+        "category": "Collection",
+        "currentCount": 0,
+        "totalThreshold": 5,
+        "parentId": null,
+        "order": 0,
+        "rarity": null,
+        "prerequisiteLogicalCondition": "And",
+        "prerequisiteIds": [],
+        "groupId": null,
+        "clientProperties": {}
+    },
+    "challengeRequirements": {
+        "items": [
+            {
+                "targetItems": {
+                    "itemIds": null,
+                    "tags": [
+                        "mobs"
+                    ],
+                    "rarity": ["Common"]
+                },
+                "sourceItems": null,
+                "action": [
+                    "ItemAwarded"
+                ],
+                "location": [],
+                "threshold": 5,
+                "shouldBeUnique": false
+            }
+        ]
+    }
+}

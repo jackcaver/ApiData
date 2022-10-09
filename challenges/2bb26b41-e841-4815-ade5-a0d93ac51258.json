@@ -1,0 +1,42 @@
+{
+    "challengeBackendInformation": {
+        "isDefaultChallenge": true,
+        "readableName": "Place a pale pig parrot and salmon on a buildplate",
+        "progressWhenLocked": false
+    },
+    "challengeInfo": {
+        "referenceId": "b8f5af67-ff23-4c1d-95a9-f6ccff5137e0",
+        "duration": "Season",
+        "type": "Regular",
+        "endTimeUtc": "2022-09-24T02:00:00+02:00",
+        "rewards": {
+            "inventory": [
+                {
+                    "id": "179b96c5-7627-406d-e42b-838a29ab0291",
+                    "amount": 1
+                }
+            ],
+            "buildplates": [],
+            "challenges": [],
+            "personaItems": [],
+            "utilityBlocks": []
+        },
+        "percentComplete": 0,
+        "isComplete": false,
+        "state": "Locked",
+        "category": "season_17",
+        "currentCount": 0,
+        "totalThreshold": 3,
+        "parentId": "70961d0f-a762-4846-a79c-576d685263f4",
+        "order": 20,
+        "rarity": null,
+        "prerequisiteLogicalCondition": "Or",
+        "prerequisiteIds": [
+            "96593763-a8a6-41f8-986a-8d6df0470c57",
+            "703c24f0-aedb-4fc1-bce8-6b06229b2006"
+        ],
+        "groupId": "cc456b52-1586-4e75-b7e9-aa811f609567",
+        "clientProperties": {}
+    },
+    "challengeRequirements": {}
+}
