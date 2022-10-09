@@ -16,5 +16,8 @@
 	"EncounterLocationsFileLocation": "./data/encounterLocations.json",
 	"mixTappableSpawnAmount": 5,
 	"maxTappableSpawnAmount": 20,
-	"tappableSpawnRadius": 0.001 
+	"tappableSpawnRadius": 0.001,
+	"multiplayerAuthKeys": {
+        	"Your cloudburst server IP here": "the same key you put in key.txt earlier"
+	}
 }
