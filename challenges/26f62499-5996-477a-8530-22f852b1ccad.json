@@ -1,1 +1,69 @@
-{"challengeBackendInformation":{"isDefaultChallenge":true,"readableName":"Collect 3 uncommon cows","progressWhenLocked":false},"challengeInfo":{"referenceId":"520f09c2-7a83-49f3-b579-654ca2944adb","duration":"Season","type":"Regular","endTimeUtc":"2022-09-24T02:00:00+02:00","rewards":{"inventory":[{"id":"3f473106-d0c3-4f44-9db9-ace843e3a11a","amount":1}],"buildplates":[],"challenges":[],"personaItems":[],"utilityBlocks":[]},"percentComplete":0,"isComplete":false,"state":"Locked","category":"season_17","currentCount":0,"totalThreshold":3,"parentId":"70961d0f-a762-4846-a79c-576d685263f4","order":25,"rarity":null,"prerequisiteLogicalCondition":"Or","prerequisiteIds":["abd271f8-22cd-42ff-b985-cd5e642ea25a","2ebbf878-5c69-4f55-8858-83bd53c57381"],"groupId":"cc456b52-1586-4e75-b7e9-aa811f609567","clientProperties":{}},"challengeRequirements":{"items":[{"targetItems":{"itemIds":null,"tags":["rabbit variants"],"rarity":null},"sourceItems":null,"action":["ItemCrafted","ItemAwarded","ItemSmelted"],"location":[],"threshold":3,"shouldBeUnique":false}]}}
+{
+  "challengeBackendInformation": {
+    "isDefaultChallenge": true,
+    "readableName": "Collect 3 uncommon cows",
+    "progressWhenLocked": false
+  },
+  "challengeInfo": {
+    "referenceId": "520f09c2-7a83-49f3-b579-654ca2944adb",
+    "duration": "Season",
+    "type": "Regular",
+    "endTimeUtc": "2023-09-24T02:00:00+02:00",
+    "rewards": {
+      "inventory": [
+        {
+          "id": "3f473106-d0c3-4f44-9db9-ace843e3a11a",
+          "amount": 1
+        }
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    },
+    "percentComplete": 0,
+    "isComplete": false,
+    "state": "Locked",
+    "category": "season_17",
+    "currentCount": 0,
+    "totalThreshold": 3,
+    "parentId": "70961d0f-a762-4846-a79c-576d685263f4",
+    "order": 25,
+    "rarity": null,
+    "prerequisiteLogicalCondition": "Or",
+    "prerequisiteIds": [
+      "abd271f8-22cd-42ff-b985-cd5e642ea25a",
+      "2ebbf878-5c69-4f55-8858-83bd53c57381"
+    ],
+    "groupId": "cc456b52-1586-4e75-b7e9-aa811f609567",
+    "clientProperties": {
+    }
+  },
+  "challengeRequirements": {
+    "items": [
+      {
+        "targetItems": {
+          "itemIds": null,
+          "tags": [
+            "rabbit variants"
+          ],
+          "rarity": null
+        },
+        "sourceItems": null,
+        "action": [
+          "ItemCrafted",
+          "ItemAwarded",
+          "ItemSmelted"
+        ],
+        "location": [
+        ],
+        "threshold": 3,
+        "shouldBeUnique": false
+      }
+    ]
+  }
+}

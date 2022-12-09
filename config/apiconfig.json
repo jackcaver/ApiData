@@ -1,5 +1,6 @@
 {
 	"baseServerIP": "https://p.projectearth.dev",
+	"useBaseServerIP": true,
 	"tileServerUrl": "https://tiles.projectearth.dev",
 	"playfabTitleId": "20CA2",
 	"itemsFolderLocation": "./data/items/",
@@ -13,8 +14,9 @@
 	"sharedBuildplateStorageFolderLocation": "./data/shared_buildplates/",
 	"productCatalogFileLocation": "./data/productCatalog.json",
 	"ShopItemDictionaryFileLocation": "./data/shopItemDictionary.json",
+	"LevelDictionaryFileLocation": "./data/levelDictionary.json",
 	"EncounterLocationsFileLocation": "./data/encounterLocations.json",
 	"mixTappableSpawnAmount": 5,
 	"maxTappableSpawnAmount": 20,
-	"tappableSpawnRadius": 0.001 
+	"tappableSpawnRadius": 0.001
 }

@@ -1,0 +1,375 @@
+{
+  "2": {
+    "experienceRequired": 500,
+    "rewards": {
+      "inventory": [
+        {
+          "id": "730573d1-ba59-4fd4-89e0-85d4647466c2",
+          "amount": 1
+        },
+        {
+          "id": "20dbd5fc-06b7-1aa1-5943-7ddaa2061e6a",
+          "amount": 8
+        },
+        {
+          "id": "1eaa0d8c-2d89-2b84-aa1f-b75ccc85faff",
+          "amount": 64
+        }
+      ],
+      "rubies": 15,
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "3": {
+    "experienceRequired": 1500,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "4": {
+    "experienceRequired": 2800,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "5": {
+    "experienceRequired": 4600,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "6": {
+    "experienceRequired": 6100,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "7": {
+    "experienceRequired": 7800,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "8": {
+    "experienceRequired": 10100,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "9": {
+    "experienceRequired": 13300,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "10": {
+    "experienceRequired": 17800,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "11": {
+    "experienceRequired": 21400,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "12": {
+    "experienceRequired": 25700,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "13": {
+    "experienceRequired": 31300,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "14": {
+    "experienceRequired": 39100,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "15": {
+    "experienceRequired": 50000,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "16": {
+    "experienceRequired": 58700,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "17": {
+    "experienceRequired": 68700,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "18": {
+    "experienceRequired": 82700,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "19": {
+    "experienceRequired": 101700,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "20": {
+    "experienceRequired": 128700,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "21": {
+    "experienceRequired": 137400,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "22": {
+    "experienceRequired": 147000,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "23": {
+    "experienceRequired": 157000,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "24": {
+    "experienceRequired": 169000,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  },
+  "25": {
+    "experienceRequired": 185000,
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    }
+  }
+}

@@ -1,1 +1,52 @@
-{"challengeBackendInformation":{"isDefaultChallenge":true,"readableName":"Persona Phase Parent","progressWhenLocked":false},"challengeInfo":{"referenceId":"87ded7ff-f837-4a20-bedd-77aa3d60c060","duration":"Season","type":"Regular","endTimeUtc":"2022-09-24T02:00:00+02:00","rewards":{"inventory":[],"buildplates":[],"challenges":[],"personaItems":[],"utilityBlocks":[]},"percentComplete":0,"isComplete":false,"state":"Active","category":"season_17","currentCount":0,"totalThreshold":1,"parentId":"cc456b52-1586-4e75-b7e9-aa811f609567","order":0,"rarity":null,"prerequisiteLogicalCondition":"And","prerequisiteIds":[],"groupId":"cc456b52-1586-4e75-b7e9-aa811f609567","clientProperties":{}},"challengeRequirements":{"challenges":[{"targetChallengeIds":["9bda1e32-7638-454f-9f8a-bebedefc8df5"],"durations":null,"rarities":null,"threshold":1}]}}
+{
+  "challengeBackendInformation": {
+    "isDefaultChallenge": true,
+    "readableName": "Persona Phase Parent",
+    "progressWhenLocked": false
+  },
+  "challengeInfo": {
+    "referenceId": "87ded7ff-f837-4a20-bedd-77aa3d60c060",
+    "duration": "Season",
+    "type": "Regular",
+    "endTimeUtc": "2023-09-24T02:00:00+02:00",
+    "rewards": {
+      "inventory": [
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    },
+    "percentComplete": 0,
+    "isComplete": false,
+    "state": "Active",
+    "category": "season_17",
+    "currentCount": 0,
+    "totalThreshold": 1,
+    "parentId": "cc456b52-1586-4e75-b7e9-aa811f609567",
+    "order": 0,
+    "rarity": null,
+    "prerequisiteLogicalCondition": "And",
+    "prerequisiteIds": [
+    ],
+    "groupId": "cc456b52-1586-4e75-b7e9-aa811f609567",
+    "clientProperties": {
+    }
+  },
+  "challengeRequirements": {
+    "challenges": [
+      {
+        "targetChallengeIds": [
+          "9bda1e32-7638-454f-9f8a-bebedefc8df5"
+        ],
+        "durations": null,
+        "rarities": null,
+        "threshold": 1
+      }
+    ]
+  }
+}

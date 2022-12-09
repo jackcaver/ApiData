@@ -1,1 +1,48 @@
-{"challengeBackendInformation":{"isDefaultChallenge":true,"readableName":"Place 2 different types of sapplings on a buildplate","progressWhenLocked":false},"challengeInfo":{"referenceId":"bfd00245-4801-46fa-af1a-28979df23377","duration":"Season","type":"Regular","endTimeUtc":"2022-09-24T02:00:00+02:00","rewards":{"inventory":[{"id":"c14fc209-f280-bccc-bb4a-6c2a3fc71abc","amount":3}],"buildplates":[],"challenges":[],"personaItems":[],"utilityBlocks":[]},"percentComplete":0,"isComplete":false,"state":"Locked","category":"season_17","currentCount":0,"totalThreshold":2,"parentId":"3d82b9c1-f4e0-4a20-b87e-9a11734bcb6a","order":7,"rarity":null,"prerequisiteLogicalCondition":"Or","prerequisiteIds":["1ccbe15e-3a72-4d8b-ad0b-00a23ac72eb1","d434c853-7fab-4ac7-b64b-80fb6dd9ddd9"],"groupId":"cc456b52-1586-4e75-b7e9-aa811f609567","clientProperties":{}},"challengeRequirements":{}}
+{
+  "challengeBackendInformation": {
+    "isDefaultChallenge": true,
+    "readableName": "Place 2 different types of sapplings on a buildplate",
+    "progressWhenLocked": false
+  },
+  "challengeInfo": {
+    "referenceId": "bfd00245-4801-46fa-af1a-28979df23377",
+    "duration": "Season",
+    "type": "Regular",
+    "endTimeUtc": "2023-09-24T02:00:00+02:00",
+    "rewards": {
+      "inventory": [
+        {
+          "id": "c14fc209-f280-bccc-bb4a-6c2a3fc71abc",
+          "amount": 3
+        }
+      ],
+      "buildplates": [
+      ],
+      "challenges": [
+      ],
+      "personaItems": [
+      ],
+      "utilityBlocks": [
+      ]
+    },
+    "percentComplete": 0,
+    "isComplete": false,
+    "state": "Locked",
+    "category": "season_17",
+    "currentCount": 0,
+    "totalThreshold": 2,
+    "parentId": "3d82b9c1-f4e0-4a20-b87e-9a11734bcb6a",
+    "order": 7,
+    "rarity": null,
+    "prerequisiteLogicalCondition": "Or",
+    "prerequisiteIds": [
+      "1ccbe15e-3a72-4d8b-ad0b-00a23ac72eb1",
+      "d434c853-7fab-4ac7-b64b-80fb6dd9ddd9"
+    ],
+    "groupId": "cc456b52-1586-4e75-b7e9-aa811f609567",
+    "clientProperties": {
+    }
+  },
+  "challengeRequirements": {
+  }
+}
