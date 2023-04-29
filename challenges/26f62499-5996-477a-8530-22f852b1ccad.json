@@ -48,10 +48,15 @@
       {
         "targetItems": {
           "itemIds": null,
-          "tags": [
-            "rabbit variants"
+          "groupKeys": [
+            "cow"
           ],
-          "rarity": null
+          "categories": [
+            "Mobs"
+          ],
+          "rarity": [
+            "Uncommon"
+          ]
         },
         "sourceItems": null,
         "action": [
@@ -59,8 +64,7 @@
           "ItemAwarded",
           "ItemSmelted"
         ],
-        "location": [
-        ],
+        "location": [],
         "threshold": 3,
         "shouldBeUnique": false
       }

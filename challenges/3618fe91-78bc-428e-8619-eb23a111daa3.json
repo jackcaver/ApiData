@@ -35,9 +35,12 @@
         "items": [
             {
                 "targetItems": {
-                    "itemIds": [],
-                    "tags": [
+                    "itemIds": null,
+                    "groupKeys": [
                         "chicken"
+                    ],
+                    "categories": [
+                        "Mobs"
                     ],
                     "rarity": null
                 },

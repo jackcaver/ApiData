@@ -1,13 +1,13 @@
 {
     "challengeBackendInformation": {
-        "isDefaultChallenge": false,
-        "readableName": "Baaaa!",
+        "isDefaultChallenge": true,
+        "readableName": "Cow stickers",
         "progressWhenLocked": false
     },
     "challengeInfo": {
-        "referenceId": "91d23ab8-7a63-4d6d-8b4b-6ae462a51067",
-        "duration": "PersonalTimed",
-        "type": "Regular",
+        "referenceId": "554c21e5-10f9-4321-92b2-80fe7fd597f3",
+        "duration": "Career",
+        "type": "Journal",
         "endTimeUtc": null,
         "rewards": {
             "inventory": [],
@@ -15,18 +15,18 @@
             "challenges": [],
             "personaItems": [],
             "utilityBlocks": [],
-            "experiencePoints": 30
+            "experiencePoints": 100
         },
         "percentComplete": 0,
         "isComplete": false,
         "state": "Active",
-        "category": "sheep",
+        "category": "cow",
         "currentCount": 0,
-        "totalThreshold": 1,
+        "totalThreshold": 5,
         "parentId": null,
         "order": 0,
-        "rarity": "Common",
-        "prerequisiteLogicalCondition": "And",
+        "rarity": null,
+        "prerequisiteLogicalCondition": "Or",
         "prerequisiteIds": [],
         "groupId": null,
         "clientProperties": {}
@@ -37,7 +37,7 @@
                 "targetItems": {
                     "itemIds": null,
                     "groupKeys": [
-                        "sheep"
+                        "cow"
                     ],
                     "categories": [
                         "Mobs"
@@ -46,10 +46,10 @@
                 },
                 "sourceItems": null,
                 "action": [
-                    "ItemAwarded"
+                    "ItemJournalEntryUnlocked"
                 ],
                 "location": [],
-                "threshold": 1,
+                "threshold": 5,
                 "shouldBeUnique": false
             }
         ]

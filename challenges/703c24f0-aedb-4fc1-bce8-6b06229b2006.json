@@ -48,8 +48,11 @@
       {
         "targetItems": {
           "itemIds": null,
-          "tags": [
-            "rabbit variants"
+          "groupKeys": [
+            "rabbit"
+          ],
+          "categories": [
+            "Mobs"
           ],
           "rarity": null
         },
@@ -59,8 +62,7 @@
           "ItemAwarded",
           "ItemSmelted"
         ],
-        "location": [
-        ],
+        "location": [],
         "threshold": 3,
         "shouldBeUnique": false
       }

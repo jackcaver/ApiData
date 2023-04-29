@@ -51,7 +51,8 @@
           "itemIds": [
             "393d90c3-4968-72ab-22c9-dff5d0ec3861"
           ],
-          "tags": null,
+          "groupKeys": null,
+          "categories": null,
           "rarity": null
         },
         "sourceItems": null,
@@ -60,8 +61,7 @@
           "ItemAwarded",
           "ItemSmelted"
         ],
-        "location": [
-        ],
+        "location": [],
         "threshold": 6,
         "shouldBeUnique": false
       }

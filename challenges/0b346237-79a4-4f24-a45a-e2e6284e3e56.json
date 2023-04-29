@@ -43,10 +43,11 @@
             {
                 "targetItems": {
                     "itemIds": null,
-                    "tags": [
-                        "mobs"
+                    "groupKeys": null,
+                    "categories": [
+                        "Mobs"
                     ],
-                    "rarity": null
+                    "rarity": ["Rare"]
                 },
                 "sourceItems": null,
                 "action": [

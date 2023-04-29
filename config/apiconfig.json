@@ -1,6 +1,6 @@
 {
 	"baseServerIP": "https://p.projectearth.dev",
-	"useBaseServerIP": true,
+	"useBaseServerIP": false,
 	"tileServerUrl": "https://tiles.projectearth.dev",
 	"playfabTitleId": "20CA2",
 	"itemsFolderLocation": "./data/items/",
@@ -9,7 +9,6 @@
 	"recipesFileLocation": "./data/recipes.json",
 	"settingsFileLocation": "./data/settings.json",
 	"challengeStorageFolderLocation": "./data/challenges/",
-	"activeSeasonChallenge": "f0532069-a70a-4a01-8611-f770bb46d9cd",
 	"buildplateStorageFolderLocation": "./data/buildplates/",
 	"sharedBuildplateStorageFolderLocation": "./data/shared_buildplates/",
 	"productCatalogFileLocation": "./data/productCatalog.json",

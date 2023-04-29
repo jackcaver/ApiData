@@ -50,8 +50,8 @@
           "itemIds": [
             "b1160704-52a1-6c7e-d0f1-deb06359ce1a"
           ],
-          "tags": null,
-          "rarity": null
+          "categories": [],
+          "rarity": []
         },
         "sourceItems": null,
         "action": [
@@ -59,8 +59,7 @@
           "ItemAwarded",
           "ItemSmelted"
         ],
-        "location": [
-        ],
+        "location": [],
         "threshold": 8,
         "shouldBeUnique": false
       }

@@ -48,16 +48,15 @@
       {
         "targetItems": {
           "itemIds": null,
-          "tags": [
-            "Terracotta"
-          ],
+          "groupKeys": null,
+          "categories": null,
           "rarity": null
         },
         "sourceItems": null,
         "action": [
           "ItemJournalEntryUnlocked"
         ],
-        "location": null,
+        "location": [],
         "threshold": 3,
         "shouldBeUnique": true
       }

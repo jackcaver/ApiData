@@ -36,8 +36,9 @@
             {
                 "targetItems": {
                     "itemIds": null,
-                    "tags": [
-                        "mobs"
+                    "groupKeys": null,
+                    "categories": [
+                        "Mobs"
                     ],
                     "rarity": ["Common"]
                 },
